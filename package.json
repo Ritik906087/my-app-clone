@@ -1,0 +1,10 @@
+{
+  "name": "static-site",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve . -l 9002"
+  },
+  "dependencies": {
+    "serve": "^14.2.6"
+  }
+}
